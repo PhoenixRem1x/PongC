@@ -1,5 +1,5 @@
 # PongC
-game - Compiled on WSL, may need the SDL2 libraries to function
+game - Compiled on WSL, may need the SDL2 libraries to function \n
 game.exe - Should be an all-in-one exe and shouldn't need additional libraries
 
 # Controls
