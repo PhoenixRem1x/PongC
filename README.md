@@ -5,7 +5,7 @@ game - Compiled on WSL, may need the SDL2 libraries to function
 game.exe - Should be an all-in-one exe and shouldn't need additional libraries
 
 # Controls
-##Player 1 -
+__Player 1 -__
 
   W- Up
   
@@ -14,7 +14,7 @@ game.exe - Should be an all-in-one exe and shouldn't need additional libraries
   Fast - LShift
 
 
-##Player 2 -
+__Player 2 -__
 
   ⬆️- Up
   
